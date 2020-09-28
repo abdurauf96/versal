@@ -1,0 +1,11 @@
+.flash,.error{
+	position: fixed;
+	right: 0;
+	padding: 10px 20px;
+	top: 120px;
+	z-index: 1000;
+	text-align: center;
+}
+.error ul{
+	list-style: none;
+}
